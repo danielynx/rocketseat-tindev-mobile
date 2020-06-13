@@ -1,4 +1,4 @@
-# Tindev Mobile Project
+# Tindev Mobile
 
 React Native project developed copying the instructor coding during the Rocketseat OmniStack week.
 
